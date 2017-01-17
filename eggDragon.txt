@@ -1,0 +1,60 @@
+These are the stats of the dragon in program egg.py. 
+In order they represent:
+
+days (0 to 99)
+health (0 to 100)
+sickness (false is 0 and true is 1)
+hunger (0 to 100)
+rest (0 to 100)
+happiness (0 to 100)
+location(den is 0 and woods is 1)
+dead (false is 0 and true is 1)
+bp (0 to infinity)
+cl (0 to infinity)
+wd (0 to infinity)
+cs (0 to infinity)
+sc (0 to infinity)
+a (0 to infinity)
+f (0 to infinity)
+re (0 to infinity)
+cb (0 to infinity)
+ml (0 to infinity)
+
+Format of stats: (no spaces in stats)
+days, health, sickness, hunger, rest, happiness, location, dead, bp, cl, wd, cs, sc, a, f, re, cb, ml
+
+Stats: -last line will be utilized
+
+last line with format 'name NAMEHERE' will be read
+
+name Melissa
+0,1,0,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0
+22,23,0,25,25,100,1,0,1,2,1,2,0,0,1,1,4,6
+28,29,0,60,70,96,0,0,2,2,1,3,0,0,0,1,4,6
+38,39,0,20,50,100,0,0,3,3,2,3,0,0,0,1,2,7
+46,32,0,30,25,105,1,0,1,1,1,5,0,0,0,1,1,7
+48,34,0,25,40,96,0,0,1,1,1,5,0,0,0,1,1,7
+
+name Amanda
+0,1,0,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0
+0,1,0,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0
+1,2,0,95,90,100,1,0,0,0,0,0,0,0,0,0,0,0
+10,11,0,50,35,95,0,0,0,0,1,3,0,3,2,1,1,1
+10,11,0,50,35,95,0,0,0,0,1,3,0,3,2,1,1,1
+23,24,0,60,80,100,1,0,0,4,3,3,1,3,0,0,3,1
+25,26,1,30,40,90,1,0,0,5,3,3,1,3,0,1,4,2
+
+name Crystal
+0,1,0,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0
+2,3,0,90,80,100,1,0,0,0,0,0,1,0,0,1,1,0
+20,1,0,20,40,25,1,0,0,0,0,0,0,0,0,0,0,0
+25,6,0,50,95,36,0,0,0,1,0,0,0,0,0,0,0,0
+41,36,0,45,20,76,1,0,0,0,0,0,0,0,0,0,0,4
+
+name MaryGrace
+0,1,0,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0
+0,1,0,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0
+
+name Robin
+0,1,0,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0
+0,1,0,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0
